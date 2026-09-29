@@ -1,6 +1,6 @@
 ## Live Demo
 
-[🚀 Try the Streamlit Demo](https://image-captioning-resnet-odolvra5bkmyxzej2wffes.streamlit.app)
+[🚀 Try the Streamlit Demo](https://image-captioning-resnet.streamlit.app)
 # Neural Image Captioning
 
 A from-scratch image captioning system using a custom ResNet-18-style CNN encoder and an LSTM-based caption decoder trained on Flickr8k.
@@ -604,7 +604,7 @@ image-captioning-resnet/
 Clone the repository:
 
 ```bash
-git clone https://github.com/doitmuna/image-captioning-resnet.git
+git clone https://github.com/Abhishek-YN/image-captioning-resnet-.git
 cd image-captioning-resnet
 ```
 
@@ -836,13 +836,13 @@ The model's limitations and failure cases are explicitly documented as part of t
 
 ## Author
 
-**Munna Kumar Shah**
+**Abhishek Yadav**
 
 Computer Science and Engineering
 
 GitHub:
 
-https://github.com/doitmuna
+https://github.com/Abhishek-YN
 
 ---
 
